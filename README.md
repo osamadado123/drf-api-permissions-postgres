@@ -12,3 +12,5 @@
 ## How do you run tests
 
 - `docker-compose run web python manage.py test`
+## pull request 
+[my pull request](https://github.com/osamadado123/drf-api-permissions-postgres/pull/1)
